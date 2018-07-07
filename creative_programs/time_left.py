@@ -5,7 +5,7 @@ Created on Mon Feb 12 21:06:10 2018
 
 @author: siddesh
 """
-from Tkinter import * 
+from tkinter import * 
 from datetime import datetime as dt
 import time
 import os
