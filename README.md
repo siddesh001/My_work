@@ -14,3 +14,6 @@ The application look likewise :
 
 ![alt text](https://github.com/siddesh001/Time_left-application-python/blob/master/Screenshot%20from%202018-07-09%2017-48-11.png)
 
+
+You can keep the application on all day just right_click > always on top 
+Drag it to the corner of the screen for better view...
