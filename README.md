@@ -8,8 +8,6 @@ step 2:Run the program using the command (Terminal/cmd) : python <program_name>.
 
 <h1>What the folder contains...</h1>
 
-The project contains the programs which aren't difficult but different.
-
-1. <h2>time_left.py </h2><\n>:My first program was to create a watch in python which shows how much time is remaining in the day. This has helped me to keep working and understand that there is limited time in a day.(not wasting time in Gibberish) 
+ <h2>time_left.py </h2><br>My first program was to create a watch in python which shows how much time is remaining in the day. This has helped me to keep working and understand that there is limited time in a day.(not wasting time in Gibberish) 
 
 I will keep on updating the file as i get better programs
